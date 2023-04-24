@@ -1,18 +1,8 @@
-# template
+# benign-prostate-hyperplasia
 
 
 
-**template for pathology atlas repositories**
-
-
-
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-
-
-> do not forget to activate github pages for the new repository
+**benign-prostate-hyperplasia for pathology atlas repositories**
 
 
 
@@ -26,7 +16,7 @@ vips dzsave HE.svs HE
 
 
 
-```{r language template, echo=FALSE, include=TRUE}
+```{r language benign-prostate-hyperplasia, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -37,7 +27,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-## TemplateTR
+## benign prostat hiperplazisi
 
 ```
 
@@ -46,7 +36,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-## TemplateEN
+## benign prostate hyperplasia
 
 ```
 
@@ -55,14 +45,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**benign prostat hiperplazisi**
 
 
-[https://images.patolojiatlasi.com/template/HE.html](https://images.patolojiatlasi.com/template/HE.html)
+[https://images.patolojiatlasi.com/benign-prostate-hyperplasia/HE.html](https://images.patolojiatlasi.com/benign-prostate-hyperplasia/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://images.patolojiatlasi.com/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/benign-prostate-hyperplasia/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -71,14 +61,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**benign prostate hyperplasia**
 
 
-[https://images.patolojiatlasi.com/template/HE.html](https://images.patolojiatlasi.com/template/HE.html)
+[https://images.patolojiatlasi.com/benign-prostate-hyperplasia/HE.html](https://images.patolojiatlasi.com/benign-prostate-hyperplasia/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://images.patolojiatlasi.com/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/benign-prostate-hyperplasia/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
