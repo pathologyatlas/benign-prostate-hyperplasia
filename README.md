@@ -7,14 +7,6 @@
 
 
 
-```zsh
-
-
-```
-
-
-
-
 ```{r language benign-prostate-hyperplasia, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
