@@ -9,7 +9,6 @@
 
 ```zsh
 
-vips dzsave HE.svs HE
 
 ```
 
